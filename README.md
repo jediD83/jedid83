@@ -11,7 +11,21 @@ Everything I done are self taught, using official documents, such as
   <li><a href="https://django-ninja.dev/">Django Ninja</a></li>
 </ul>
 
-<a href="your landing page url">
- <img src="your image url" />
+<div class="row">
+  <div class="column">
+    <a href="https://docs.djangoproject.com/en/5.0/">
+ <img src="/images/django_logo.png" width="100" height="100"/>
 </a>
+  </div>
+  <div class="column">
+    <a href="https://django-ninja.dev/">
+ <img src="/images/django_ninja_logo.png" />
+</a>
+  </div>
+  <div class="column">
+    <a href="[your landing page url](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)">
+ <img src="/images/" />
+</a>
+  </div>
+</div>
 
