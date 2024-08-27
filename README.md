@@ -1,31 +1,21 @@
 ## Welcome
-I'm just a person trying out to be an open source teamplayer, primary in Python-related areas, such as Django and Flask.
+I'm just a person trying to be an open source teamplayer, primary in Python-related fields, such as Django and Flask.
 
-### What I learned and done?
+### What I done so far
+Everything I done are self taught using official documents and tutorial, such as [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) and [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/chapter0/).
 
-Everything I done are self taught, using official documents, such as 
-
-<ul>
-  <li><a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world">Flask Mega-Tutorial</a></li>
-  <li><a href="https://docs.djangoproject.com/en/5.0/">Django Docs</a></li>
-  <li><a href="https://django-ninja.dev/">Django Ninja</a></li>
-</ul>
-
-<div class="row">
-  <div class="column">
-    <a href="https://docs.djangoproject.com/en/5.0/">
- <img src="/images/django_logo.png" width="100" height="100"/>
-</a>
-  </div>
-  <div class="column">
-    <a href="https://django-ninja.dev/">
- <img src="/images/django_ninja_logo.png" />
-</a>
-  </div>
-  <div class="column">
-    <a href="[your landing page url](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)">
- <img src="/images/" />
-</a>
-  </div>
-</div>
+<img align="left" alt="Python" width="28px" src="" /> 
+<img align="left" alt="Bash" width="28px" src="" /> 
+<img align="left" alt="Windows" width="28px" src="" /> 
+<img align="left" alt="Linux" width="28px" src="" /> 
+<img align="left" alt="VSCode" width="28px" src="" /> 
+<img align="left" alt="Git" width="28px" src="" /> 
+<img align="left" alt="GitHub" width="28px" src="" /> 
+<img align="left" alt="Gitlab" width="28px" src="" /> 
+<img align="left" alt="VirtualBox" width="28px" src="" /> 
+<img align="left" alt="Django" width="28px" src="" /> 
+<img align="left" alt="Flask" width="28px" src="" /> 
+<img align="left" alt="WSL" width="28px" src="" /> 
+<img align="left" alt="Docker" width="28px" src="" /> 
+<img align="left" alt="HTML" width="28px" src="" /> 
 
