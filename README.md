@@ -2,7 +2,7 @@
 I'm just a guy trying to be an open source team player, primary in Python-related fields, such as Django and Flask frameworks.
 
 ### What have I done so far?
-Everything I learned are all self-taught using official documents and tutorials. To name a few that I liked are: 
+Everything I learned are all self-taught using various tutorials and official documents. To name a few that I liked are: 
 - 📣 [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - ⚙ [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/chapter0/)
 
