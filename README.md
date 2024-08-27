@@ -1,16 +1,17 @@
-## Hi there 👋
+## Welcome
+I'm just a person trying out to be an open source teamplayer, primary in Python-related areas, such as Django and Flask.
 
-<!--
-**jediD83/jedid83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I learned and done?
 
-Here are some ideas to get you started:
+Everything I done are self taught, using official documents, such as 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li><a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world">Flask Mega-Tutorial</a></li>
+  <li><a href="https://docs.djangoproject.com/en/5.0/">Django Docs</a></li>
+  <li><a href="https://django-ninja.dev/">Django Ninja</a></li>
+</ul>
+
+<a href="your landing page url">
+ <img src="your image url" />
+</a>
+
