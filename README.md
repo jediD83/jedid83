@@ -13,7 +13,7 @@ Tools and programing languages that I been using:
 <img align="left" alt="Windows" width="32px" src="images/windows.png" /> 
 <img align="left" alt="Ubuntu" width="32px" src="images/ubuntu.png" /> 
 <img align="left" alt="VSCode" width="32px" src="images/vscode.png" /> 
-<img align="left" alt="Git" width="32px" src="images/git.jpg" /> 
+<img align="left" alt="Git" width="32px" src="images/git.png" /> 
 <img align="left" alt="GitHub" width="32px" src="images/github.png" /> 
 <img align="left" alt="Gitlab" width="32px" src="images/gitlab.webp" /> 
 <img align="left" alt="VirtualBox" width="32px" src="images/virtualbox.png" /> 
