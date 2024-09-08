@@ -15,7 +15,7 @@ Tools and programing languages that I have been using:
 <img style="float: left;" alt="VirtualBox" width="45px" src="images/virtualbox.svg" aria-label="VirtualBox" /> 
 -->
 
-<img src="https://skillicons.dev/icons?i=py,bash,rust,windows,ubuntu,vscode,git,github,gitlab,docker,html,css,flask,django" 
-     alt="My Skills: py,bash,rust,windows,ubuntu,vscode,git,github,gitlab,docker,html,css,flask,django" 
-     aria-label="My Skills: py,bash,rust,windows,ubuntu,vscode,git,github,gitlab,docker,html,css,flask,django" /> 
+<img src="https://skillicons.dev/icons?i=py,bash,rust,windows,ubuntu,linux,vscode,git,github,gitlab,docker,html,css,flask,django" 
+     alt="My Skills: py,bash,rust,windows,ubuntu,linux,vscode,git,github,gitlab,docker,html,css,flask,django" 
+     aria-label="My Skills: py,bash,rust,windows,ubuntu,linux,vscode,git,github,gitlab,docker,html,css,flask,django" /> 
 
