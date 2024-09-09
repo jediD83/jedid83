@@ -17,7 +17,11 @@ Tools and programing languages that I have been using:
 <img style="float: leftl" alt="vagrant" width="45px" src="images/vagrant.svg" aria-label="vagrant" />
 -->
 
-<img src="https://skillicons.dev/icons?i=py,bash,rust,windows,ubuntu,linux,vscode,git,github,gitlab,docker,html,css,flask,django,ansible" 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,bash,rust,windows,ubuntu,linux,vscode,git,github,gitlab,docker,html,css,flask,django,ansible" 
      alt="My Skills: py,bash,rust,windows,ubuntu,linux,vscode,git,github,gitlab,docker,html,css,flask,django,ansible" 
      aria-label="My Skills: py,bash,rust,windows,ubuntu,linux,vscode,git,github,gitlab,docker,html,css,flask,django,ansible" /> 
+  </a>
+</p>
 
