@@ -17,9 +17,9 @@ Tools and programing languages that I have been using:
      alt="My Skills: py,bash,rust,windows,ubuntu,vscode,git,github,gitlab,docker,html,css,flask,django" 
      aria-label="My Skills: py,bash,rust,windows,ubuntu,vscode,git,github,gitlab,docker,html,css,flask,django" /> 
   </a>
-  <img alt="wsl" width="45px" src="images/wsl.png" aria-label="wsl" /> 
-  <img alt="VirtualBox" width="45px" src="images/virtualbox.svg" aria-label="VirtualBox" /> 
-  <img alt="ansible" width="45px" src="images/ansible.svg" aria-label="ansible" />
-  <img alt="vagrant" width="45px" src="images/vagrant.svg" aria-label="vagrant" />
+  <img width="45px" src="images/wsl.png" alt="wsl" aria-label="wsl" /> 
+  <img width="45px" src="images/virtualbox.svg" alt="VirtualBox" aria-label="VirtualBox" /> 
+  <img width="45px" src="images/ansible.svg" alt="ansible" aria-label="ansible" />
+  <img width="45px" src="images/vagrant.svg" alt="vagrant" aria-label="vagrant" />
 </p>
   
