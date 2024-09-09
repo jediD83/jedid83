@@ -1,10 +1,9 @@
-.c-img {
-  display: flex; /* Use flexbox for the container */
-  justify-content: center; /* Center items within the flex container */
-  margin: 0; /* Remove any default margin on the container */
+.skill-container, .image-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px; /* Add spacing between the sections */
 }
 
-.c-img img {
-  margin-right: 10px; /* Spacing between images */
-  margin-bottom: 10px; /* Add spacing below images if you want */
+.image-container img {
+  margin-right: 10px;
 }
