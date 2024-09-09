@@ -1,10 +1,10 @@
-.custom-img {
+.c-img {
   display: inline-block; 
   text-align: center;
   margin: 0; 
 }
 
-.custom-img img {
+.c-img img {
   margin-right: 10px;
   margin: 0;  
 }
