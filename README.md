@@ -11,41 +11,15 @@ Everything I learned is all self-taught using various tutorials and official doc
 Tools and programing languages that I have been using: 
 <!-- Images from skillicons, and simpleicons-->
 
-<!--
-<img style="float: left;" alt="wsl" width="45px" src="images/wsl.png" aria-label="wsl" /> 
-  <img style="float: left;" alt="VirtualBox" width="45px" src="images/virtualbox.svg" aria-label="VirtualBox" /> 
-  <img style="float: left;" alt="ansible" width="45px" src="images/ansible.svg" aria-label="ansible" />
-  <img style="float: left;" alt="vagrant" width="45px" src="images/vagrant.svg" aria-label="vagrant" />
-
-<div class="c-img">
-  <img alt="wsl" width="45px" src="images/wsl.png" aria-label="wsl" /> 
-  <img alt="VirtualBox" width="45px" src="images/virtualbox.svg" aria-label="VirtualBox" /> 
-  <img alt="ansible" width="45px" src="images/ansible.svg" aria-label="ansible" />
-  <img alt="vagrant" width="45px" src="images/vagrant.svg" aria-label="vagrant" />
-</div>
-
-
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,bash,rust,windows,ubuntu,linux,vscode,git,github,gitlab,docker,html,css,flask,django" 
      alt="My Skills: py,bash,rust,windows,ubuntu,linux,vscode,git,github,gitlab,docker,html,css,flask,django" 
      aria-label="My Skills: py,bash,rust,windows,ubuntu,linux,vscode,git,github,gitlab,docker,html,css,flask,django" /> 
   </a>
-</p>
--->
-
-<div class="skill-container">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,rust,windows,ubuntu,linux,vscode,git,github,gitlab,docker,html,css,flask,django" 
-         alt="My Skills: py,bash,rust,windows,ubuntu,linux,vscode,git,github,gitlab,docker,html,css,flask,django" 
-         aria-label="My Skills: py,bash,rust,windows,ubuntu,linux,vscode,git,github,gitlab,docker,html,css,flask,django" /> 
-  </a>
-</div>
-
-<div class="image-container">
   <img alt="wsl" width="45px" src="images/wsl.png" aria-label="wsl" /> 
   <img alt="VirtualBox" width="45px" src="images/virtualbox.svg" aria-label="VirtualBox" /> 
   <img alt="ansible" width="45px" src="images/ansible.svg" aria-label="ansible" />
   <img alt="vagrant" width="45px" src="images/vagrant.svg" aria-label="vagrant" />
-</div>
-
+</p>
+  
