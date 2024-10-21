@@ -20,5 +20,6 @@ Tools and programing languages that I have been using:
   <img width="45px" src="images/wsl.png" alt="wsl" aria-label="wsl" /> 
   <img width="45px" src="images/virtualbox.svg" alt="VirtualBox" aria-label="VirtualBox" /> 
   <img width="45px" src="images/vagrant.svg" alt="vagrant" aria-label="vagrant" />
+  <img width="45px" src="images/synology.svg" alt="synology" aria-label="synology" />
 </p>
   
