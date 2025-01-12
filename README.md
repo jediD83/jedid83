@@ -13,9 +13,9 @@ Tools and programing languages that I have been using:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,rust,windows,ubuntu,vscode,git,github,gitlab,docker,html,css,flask,django,ansible" 
-     alt="My Skills: py,bash,rust,windows,ubuntu,vscode,git,github,gitlab,docker,html,css,flask,django,ansible" 
-     aria-label="My Skills: py,bash,rust,windows,ubuntu,vscode,git,github,gitlab,docker,html,css,flask,django,ansible" /> 
+    <img src="https://skillicons.dev/icons?i=py,bash,rust,windows,ubuntu,vscode,git,github,gitlab,docker,html,css,flask,django,ansible,cloudflare" 
+     alt="My Skills: py,bash,rust,windows,ubuntu,vscode,git,github,gitlab,docker,html,css,flask,django,ansible,cloudflare" 
+     aria-label="My Skills: py,bash,rust,windows,ubuntu,vscode,git,github,gitlab,docker,html,css,flask,django,ansible,cloudflare" /> 
   </a>
   <img width="45px" src="images/wsl.png" alt="wsl" aria-label="wsl" /> 
   <img width="45px" src="images/virtualbox.svg" alt="VirtualBox" aria-label="VirtualBox" /> 
