@@ -4,8 +4,6 @@
 
 I'm just a guy trying to build an app and see if anyone want to use it. 
 
-This is my first product:
-
 [EaseHeading](https://easeheading.com/) help users pin a section of a webpage to return to them later. It is like a bookmark but for the subheading.
 
 <!--### What have I done so far?-->
