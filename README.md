@@ -2,7 +2,7 @@
 ## Hello everyone
 <!--I'm just a guy trying to be an open source team player, primary in Python-related fields.-->
 
-Nothing to see here. Just storing my files.
+Nothing to see here. Just storing my files and stuffs.
 
 <!--### What have I done so far?-->
 <!-- Emoji from "ikatyang/emoji-cheat-sheet"-->
